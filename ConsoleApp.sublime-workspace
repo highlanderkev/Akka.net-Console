@@ -1,0 +1,649 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pu",
+				"public"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ConsoleApp.sublime-project",
+			"settings":
+			{
+				"buffer_size": 109,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Program.cs",
+			"settings":
+			{
+				"buffer_size": 699,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "project.json",
+			"settings":
+			{
+				"buffer_size": 341,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Kulture/ASP.NET.sublime-build",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"Run K Commands"
+			],
+			[
+				"packag",
+				"Package Syncing: Define Sync Folder"
+			]
+		],
+		"width": 544.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/SourceCode/Akka/ConsoleApp",
+		"/C/SourceCode/Akka/ConsoleApp/bin"
+	],
+	"file_history":
+	[
+		"/C/SourceCode/_Backups/Imaging/FieldCodes/FieldCodeIntrepeter.vb",
+		"/C/SourceCode/_BACKUP/DefaultFieldCodeList.aspx.vb",
+		"/C/SourceCode/_BACKUP/DefaultFieldCodeList.aspx",
+		"/C/SourceCode/_BACKUP/ApplicationFieldCodeInteraction.cs",
+		"/C/Users/kwestropp/Downloads/fieldCodeImport.dat",
+		"/C/SourceCode/C#/ConsoleApp/project.json",
+		"/C/SourceCode/C#/ConsoleApp/Program.cs",
+		"/C/Users/kwestropp/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/C/Users/kwestropp/Web Essentials/JsDocComments.js",
+		"//kCura/kUsers$/Engineering/kwestropp/Documents/SQL Server Management Studio/Code Snippets/SQL/My Code Snippets/technet_lessons.sql",
+		"/C/DeveloperEnvironmentSetupScripts/UserProvisioning/DSCDevSetupConfig.ps1",
+		"/C/DeveloperEnvironmentSetupScripts/UserProvisioning/UserProvisioning.ps1",
+		"/C/DeveloperEnvironmentSetupScripts/UserProvisioning/UpdateConfigurations.sql",
+		"/C/DeveloperEnvironmentSetupScripts/UserProvisioning/DBSetup.ps1",
+		"/C/DeveloperEnvironmentSetupScripts/UserProvisioning/AutomatedSetup/AutomatedSetup.ps1",
+		"/C/Users/kwestropp/AppData/Roaming/Sublime Text 3/Packages/User/C#.sublime-settings",
+		"/C/DeveloperEnvironmentSetupScripts/StartupDevVM.ps1",
+		"/C/DeveloperEnvironmentSetupScripts/UserProvisioning/Applications.csv",
+		"/C/DeveloperEnvironmentSetupScripts/UserProvisioning/AutomatedDevSetup.ps1",
+		"/C/DeveloperEnvironmentSetupScripts/InitialSetupFiles/CommonSetupFunctions.ps1",
+		"/C/DeveloperEnvironmentSetupScripts/InitialSetupFiles/ValidateUserCredential.ps1",
+		"/C/SourceCode/Testing/PublishtoRelativity/README.txt",
+		"/C/SourceCode/Testing/PublishtoRelativity/DeployResourcesLocally.txt",
+		"/C/SourceCode/Testing/PublishtoRelativity/DeployAll.txt",
+		"/C/ArgoLogFiles/argoserver.log",
+		"/C/setup.log",
+		"/C/SourceCode/Mainline/kCura/DevelopmentScripts/ProjectsToBuild.txt",
+		"/C/SourceCode/Mainline/kCura/kCura.MsiExec/kCura.MsiExec/kCura.MsiExec.vcxproj",
+		"/C/SourceCode/Mainline/kCura/kCura.Notification/kCura.Notification.vbproj",
+		"/C/SourceCode/Mainline/kCura/DevelopmentScripts/build.bat",
+		"/C/SourceCode/Mainline/kCura/DevelopmentScripts/Build Projects.build",
+		"/C/SourceCode/Mainline/kCura/DevelopmentScripts/msbuild-kcura.targets",
+		"/C/Program Files (x86)/MSBuild/Microsoft.Cpp/v4.0/Platforms/Win32/Microsoft.Cpp.Win32.targets",
+		"/C/SourceCode/Mainline/kCura/DevelopmentScripts/Build Projects.Common.include",
+		"/C/SourceCode/Mainline/kCura/DevelopmentScripts/Build Projects.Package.include",
+		"/C/SourceCode/Mainline/kCura/kCura.MsiExec/kCura.MsiExec.opensdf",
+		"/C/SourceCode/Mainline/kCura/kCura.MsiExec/kCura.MsiExec/kCura.MsiExec.vcxproj.filters",
+		"/C/SourceCode/Mainline/kCura/kCura.Agent.Manager.WinForm/kCura.Agent.Manager.WinForm.vbproj",
+		"/C/SourceCode/Mainline/kCura/kCura.MsiExec/kCura.MsiExec.sln",
+		"/C/Program Files (x86)/MSBuild/Microsoft.Cpp/v4.0/Platforms/Win32/Microsoft.Cpp.Win32.props",
+		"/C/SourceCode/Mainline/EDDS/kCura.EDDS.Web/Apps/web.config",
+		"/C/SourceCode/Mainline/kCura/kCura.MsiExec/kCura.MsiExec/stdafx.h",
+		"/C/SourceCode/Automation/Config/ca_inv.cfg",
+		"/C/SourceCode/Automation/Config/ca.cfg",
+		"/C/SourceCode/Mainline/Utilities/InvariantMock/Invariant.API/GeneratedInvariantAPI.cs",
+		"/C/Users/kwestropp/Downloads/ca_cfg.txt",
+		"/C/Users/kwestropp/Downloads/ca_inv.cfg",
+		"/C/Program Files (x86)/Microsoft SQL Server/110/Tools/Binn/ManagementStudio/Ssms.exe.config",
+		"/C/Program Files (x86)/Microsoft SQL Server/100/Tools/Binn/VSShell/Common7/IDE/Ssms.exe.config",
+		"//kCura/kUsers$/Engineering/kwestropp/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/SourceCode/Testing/Invariant-DB/InvariantDBCleanup.sql",
+		"/C/Users/kwestropp/.hgignore",
+		"/C/SourceCode/Phoenix/.hg/hgrc",
+		"/C/SourceCode/Mainline/.hg/hgrc",
+		"/C/Users/kwestropp/hgignore",
+		"//kCura/kUsers$/Engineering/kwestropp/Desktop/ProcessExplorer/procexp.chm",
+		"/C/SourceCode/Testing/PublishtoRelativity/PublishToRelativity.exe.Config",
+		"/C/Users/kwestropp/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/69D01DB1-56F4-4E8A-B0A6-1864DDD0FBF7/Results/0/CallBackResult.xml",
+		"/C/SourceCode/Mainline/DatabaseUpdates.sql",
+		"//kCura/kUsers$/Engineering/kwestropp/Desktop/Relativity/visio/visio.dat",
+		"/C/Users/kwestropp/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/QKZNJ45W/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/3E2E48C0-7BE7-11E4-9E8C-F8B156AA686B/Results/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/3C49FD9C-B402-41FD-BD5C-62A7386FE2DF/Results/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/6B0D53C2-8738-4270-9393-179F8131F510/Results/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/F0D08768-A720-4DA6-8DA2-714FE2B5C5F7/Results/0/CallBackResult.xml",
+		"/C/Users/kwestropp/Downloads/excel.cpp",
+		"/C/SourceCode/Mainline/kCura/DevelopmentScripts/automatedTestingScript.bat",
+		"/C/SourceCode/Mainline/EDDS/kCura.EDDS.WebAPI/Web.config",
+		"/C/SourceCode/Mainline/EDDS/kCura.EDDS.Web/Web.config",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/5C6247A0-ECD7-48FF-AC6B-177121877637/Results/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/0C32C3B4-F26A-4EAD-B8E9-55D8BABF025F/Goldens/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/8E2C249C-B97E-4BFC-9313-AB5490CB0D6B/Goldens/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/7FA07033-9761-4DC8-B157-63388F8D909E/Goldens/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/8ABDBCC3-B8D4-4A67-990D-0AE5D1444A64/Goldens/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/8ABDBCC3-B8D4-4A67-990D-0AE5D1444A64/Results/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/2CA65A1D-08DD-47FE-BE41-BA12A0AB10A8/Goldens/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/336318AF-0A2C-4D57-BB31-9F30FE04C3B8/Goldens/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/873A2C07-842D-4A6F-AC96-7F323F8B7FCD/Goldens/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/07EC73C4-0E0A-4DC9-9EEF-951EC3EBA6EF/Goldens/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/0BBB265E-3437-4EB0-99CB-24C78BB9B67B/Goldens/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/5C671714-1106-4DA3-81E4-4237E9EE1DC5/Goldens/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/D734C442-4D83-4B16-A427-39E11E9FE226/Goldens/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/3EB9F0F1-0C00-4DEC-9270-946EB8053225/Results/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/3EB9F0F1-0C00-4DEC-9270-946EB8053225/Goldens/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/198FE241-3137-4ED6-BC3D-F2DC91F3A981/Goldens/0/CallBackResult.xml",
+		"/C/SourceCode/Mainline/kCura/kCura.Agent.Manager.WinForm/App.config",
+		"//chiprodfs01.kcura.corp/Talos/lib/Installer/installTalosTools.ps1",
+		"//chiprodfs01/Talos/Tools/StartArgo.cmd",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/DF5D90A8-9678-4645-B25B-10B6FCED78B4/Goldens/0/CallBackResult.xml",
+		"/C/SourceCode/InvariantTestData/Tests/FieldCodes/9032DAED-65A8-4206-B35D-ABDFCBE83F88/Goldens/0/CallBackResult.xml",
+		"/C/SourceCode/Testing/Demo.Testing/robot_tutorial/tests/test1.txt",
+		"/C/SourceCode/Automation/.hgignore",
+		"/C/SourceCode/Automation/Config/ca_cfg.txt",
+		"/C/SourceCode/Automation/Keywords/Invariant/SharedKeywords.txt",
+		"//chiprodfs01.kcura.corp/Talos/Tools/StartArgo.cmd",
+		"/C/SourceCode/InvariantTestData/.hg/hgrc",
+		"/C/SourceCode/InvariantTestData/.hg/branch",
+		"/C/Python27/Lib/glob.py",
+		"/C/SourceCode/Testing/TestRunner/The Test Runner.download",
+		"/C/SourceCode/Automation/.hg/hgrc",
+		"/C/Windows/System32/inetsrv/config/applicationHost.config",
+		"/C/SourceCode/Testing/Testing3/Testing/Program.cs",
+		"/C/SourceCode/Testing/Relativity Custom Page MVC42/Relativity Custom Page MVC42/Global.asax.cs",
+		"//kCura/kUsers$/Product Development/Engineering/kwestropp/Desktop/Dev/Projects/Testing/Testing/Program.cs",
+		"//kCura/kUsers$/Product Development/Engineering/kwestropp/Documents/DevEnvSetup/8.1_directives.pro",
+		"//kCura/kUsers$/Product Development/Engineering/kwestropp/Documents/DevEnvSetup/scripts/testscript.ps1",
+		"/C/SourceCode/Testing/IDEAProjects/atlastutorial/adminUI/README",
+		"/C/SourceCode/Testing/IDEAProjects/atlastutorial/adminUI/pom.xml",
+		"/C/SourceCode/Mainline/EDDS/kCura.EDDS.Web/CustomPages/b1050e7e-b4fd-47bd-9ddc-fca72e01c8df/Web.config",
+		"/C/SourceCode/Mainline/EDDS/kCura.EDDS.Web/CustomPages/5975ec2c-ef13-4358-a062-aff4891b2343/Web.config",
+		"/C/SourceCode/Mainline/EDDS/kCura.EDDS.Web/CustomPages/b1050e7e-b4fd-47bd-9ddc-fca72e01c8df/Default.aspx",
+		"/C/SourceCode/Mainline/Applications/DocumentViewer/Relativity.DocumentViewer/Controllers/MassOperationController.cs",
+		"/C/SourceCode/Mainline/EDDS/Relativity.CustomPages/AuthenticationMgr.cs",
+		"/C/SourceCode/Mainline/EDDS/Relativity.CustomPages/ServicesMgr.cs",
+		"/C/SourceCode/Mainline/EDDS/Relativity.CustomPages/CustomPageHelper.cs",
+		"/C/SourceCode/Mainline/EDDS/kCura.EDDS.Web/CustomPages/5725cab5-ee63-4155-b227-c74cc9e26a76/Global.asax",
+		"/C/SourceCode/Mainline/EDDS/kCura.EDDS.Web/CustomPages/5725cab5-ee63-4155-b227-c74cc9e26a76/Views/_ViewStart.cshtml",
+		"/C/SourceCode/Mainline/EDDS/kCura.Relativity.WebProcessing/ApplicationInstaller.cs",
+		"//kCura/kUsers$/Product Development/Engineering/kwestropp/Documents/RelativityConfig/ProcessingLicense.txt",
+		"/C/SourceCode/Mainline/kCura/kCura.Agent.Manager/App.config",
+		"//kCura/kUsers$/Product Development/Engineering/kwestropp/Documents/WindowsPowerShell/Modules/posh-hg/HgTabExpansion.ps1",
+		"/C/SourceCode/Mainline/Utilities/LicenseGenerator/LicenseGenerator.sln",
+		"/C/SourceCode/Automation/Tests/Relativity/Processing/Processing/ProcessingProfile/Artifacts/Field.txt",
+		"/C/SourceCode/Phoenix/DevelopmentScripts/devbuildinv.bat",
+		"/C/Users/kwestropp/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/kwestropp/AppData/Roaming/Sublime Text 3/Packages/HighlightWhitespaces/README.md",
+		"/C/Users/kwestropp/AppData/Roaming/Sublime Text 3/Packages/HighlightWhitespaces/highlight_whitespaces.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"msiex",
+			"msiexec",
+			"msiex",
+			"msi",
+			"fieldcode",
+			"fieldcodes"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ConsoleApp.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": true,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Program.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "project.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": true,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"project": "ConsoleApp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

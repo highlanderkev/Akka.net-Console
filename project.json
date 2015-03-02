@@ -1,0 +1,20 @@
+{
+	"dependencies": {
+		"Akka" : "0.8.0-beta-*"
+	},
+	"frameworks": {
+		"Akka": {
+			"dependencies": {
+				"System.Linq": "4.0.0-beta-*",
+				"System.Threading": "4.0.0-beta-*",
+				"System.Threading.Tasks": "4.0.0-beta-*"
+			}
+		},
+		"aspnet50": {},
+		"aspnetcore50": {
+			"dependencies": {
+				"System.Console": "4.0.0-beta-*"
+			}
+		}
+	}
+}
